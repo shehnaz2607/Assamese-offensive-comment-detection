@@ -20,11 +20,9 @@ This project detects offensive comments in Assamese social media using machine l
 - Google Colab
 - Fasttext
 
-## 📊 Evaluation Metrics
-- Accuracy
-- Precision
-- Recall
-- F1-score
+## 📊 Results
+- Best Model: BiLSTM with F1 score: 0.6772
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-score
 
 ## 🚀 How to Run
 1. Open notebooks in Google Colab
@@ -35,3 +33,4 @@ This project detects offensive comments in Assamese social media using machine l
 
 ## 👩‍💻 Author
 Shehnaz Zaman
+B.Tech CSE Graduate
